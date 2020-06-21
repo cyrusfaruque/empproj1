@@ -1,0 +1,6 @@
+"0","# Draw scatter plot with linear fit line
+countyatlas$singleparent_rank = 100*rank(countyatlas$singleparent_share1990)/length(rank(countyatlas$singleparent_share1990))
+"
+"2","Error in rank(countyatlas$singleparent_share1990) : 
+  object 'countyatlas' not found
+"
